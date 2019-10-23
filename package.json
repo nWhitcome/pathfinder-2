@@ -1,0 +1,17 @@
+{
+  "name": "osm_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nathan Whitcome",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "leaflet": "^1.5.1",
+    "osm-request": "^1.2.5",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
