@@ -9,7 +9,7 @@
   "author": "Nathan Whitcome",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "leaflet": "^1.5.1",
     "osm-request": "^1.2.5",
     "xmlhttprequest": "^1.8.0"
